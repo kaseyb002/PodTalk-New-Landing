@@ -6,7 +6,7 @@
     <meta name="keywords" content="HNBuddy, Hacker News, iOS, mobile, application">
         <meta name="description" content="HNBuddy is (yet another) Hacker News client for iOS. It's elegant, fast secure and optimised for a great user experience. It includes a customisable reader, expandable discussion threads and supports most of the HN website's features.">
         
-    <title>HNBuddy - Awesome Hacker News client for iOS</title>
+    <title>PodTalk</title>
 
     <!-- favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
@@ -24,6 +24,8 @@
     <!-- styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="css/kasey.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     
     
     
@@ -32,7 +34,7 @@
 <body>
 
 
-    <script>
+    <!-- <script>
         /* Js dependent animations*/
         document.write(`<style>.scroll-apparence {
             opacity: 0;
@@ -55,13 +57,13 @@
         .appear-from-right {
             right: -200px;
         }</style>`);
-    </script>
+    </script> -->
     
     <section id="hero" class="progressive-bg-image">
     <!-- Progressive load of bg img -->
     <noscript><img class="full-absolute" src="img/background.jpg"></noscript>
     <img class="hidden thumbnail" src="img/background_mini.jpg"> <!-- TODO: b64 -->
-    <img class="full-bg-image hidden" src="img/background.jpg">
+    <!-- <img class="full-bg-image hidden" src="img/background.jpg"> -->
     <canvas class="full-absolute progressive-img-load-canvas"></canvas>
     
     <!-- ===== -->
@@ -69,27 +71,27 @@
         <header>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 logo">
-                    <a href="/index.html"><img src="img/logo.png" data-rjs="3"></a>
+                    <a href="/index.html"><img src="img/podtalk-app-icon.png" class="curved-shadow" data-rjs="3"></a>
                 </div>
                 <nav class="col-lg-7 menu col-lg-offset-1 col-md-6 col-md-offset-2 col-sm-8 col-xs-12"><!-- hidden-xs">-->
                     <ul>
-                        <li><a href="mailto:contact@hnbuddy.io" target="blank">Contact</a></li>
+                        <!-- <li><a href="mailto:contact@hnbuddy.io" target="blank">Contact</a></li> -->
                         <!--<li><a href="/faq.html">FAQ</a></li>-->
                         <!--<li><a href="/contrib.html">Contribute</a></li>-->
-                        <li><a href="/updates.html">Updates</a></li>
-                        <li><a href="https://itunes.apple.com/us/app/hnbuddy-hackernews-client/id1312439587?mt=8" target="blank">Download</a></li>
+                        <!-- <li><a href="/updates.html">Updates</a></li> -->
+                        <!-- <li><a href="https://itunes.apple.com/us/app/hnbuddy-hackernews-client/id1312439587?mt=8" target="blank">Download</a></li> -->
                     </ul>
                 </nav>
             </div>
         </header>
         <div class="row">
     <div class="col-lg-6 col-md-7 col-lg-offset-1 col-xs-12 intro">
-        <h1>Yet another Hacker News client for iOS</h1>
-        <h2>Simple, fast, intuitive and elegant. HNBuddy will make your browsing experience precisely as good as its developer's programming skills permit it to be!</h2>
-        <a href="https://itunes.apple.com/us/app/hnbuddy-hackernews-client/id1312439587?mt=8" target="_blank"><img src="img/appstore-button.png" data-rjs="3"></a>
+        <h1 class="big-title">PodTalk</h1>
+        <h2 class="big-subtitle">Talk with your friends about podcasts.</h2>
+        <a href="https://testflight.apple.com/join/zqH9HWis" target="_blank"><img src="img/appstore-button.png" data-rjs="3"></a>
     </div>
     <div class="col-lg-5 col-md-5  col-xs-12 phone">
-        <img src="img/heroImage.png" data-rjs="3">
+        <img src="img/podcast_player.png" class="cut-off-white-corners phone-animation" data-rjs="3">
     </div>
 </div>
     </div>
@@ -98,42 +100,44 @@
         <div class="container">
             <div class="row bottom-separator">
                 <div class="col-sm-5 col-sm-offset-1 col-sm-push-5 section-description">
-                    <img src="img/actions.png" alt="Actions" class="hidden-xs">
+                    <i class="fas fa-users fa-6x center-icon"></i>
                     <h2>
-                        Offline bookmarks
+                        Comments Are Private
                     </h2>
                     <p>
-                        Save the posts you want to read later, even for offline reading.
+                        Only friends can see your comments.
                     </p>
                     <p>
-                        Keep track of all the posts you read and manage your favorites.
+                        You can make different groups of friends.
                     </p>
                 </div>
                 <div class="col-sm-4 col-sm-offset-1 col-sm-pull-6 iphone-image scroll-apparence appear-from-bottom">
-                    <img src="img/lists.png" data-rjs="3">
+                    <img src="img/groups.png" data-rjs="3">
                 </div>
                 
                 
             </div>
         </div>
     </section>
+
     <section id="comments-section">
         <div class="container">
             <div class="row">
-                <div class="col-sm-5 section-description">
-                    <img src="img/comments.svg" alt="CommentsIcon" class="hidden-xs">
+                <div class="col-sm-4 col-sm-offset-1 section-description">
+                    <i class="fas fa-microphone fa-6x center-icon"></i>
                     <h2>
-                        Expandable, rich discussion threads
+                        Text and Voice Comments
                     </h2>
                     <p>
-                        Browse all the discussions in an efficient and pleasant way. Enjoy well formatted comments.
+                        Leave comments at any point in the episode.
+                    </p>
+                    <p>
+                        See and hear friends' comments as you're listening.
                     </p>
                 </div>
-                <div class="col-sm-6 iphone-image scroll-apparence appear-from-bottom">
-                    <img src="img/discussionThread.png" data-rjs="3">
+                <div class="col-sm-4 iphone-image scroll-apparence appear-from-bottom">
+                    <img src="img/voice.png" data-rjs="3">
                 </div>
-                
-                
             </div>
         </div>
     </section>
@@ -142,20 +146,38 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-sm-offset-1 col-sm-push-5 section-description">
-                    <img src="img/reader-actions.svg" alt="Actions" class="hidden-xs" style="height: 60px; width:auto;">
+                    <i class="fas fa-list-ul fa-6x center-icon"></i>
                     <h2>
-                        Customisable reader
+                        Shared Group Playlist
                     </h2>
                     <p>
-                        Activate the reader to take control over the font size, style and theme of each article.
+                        Group members add episodes to a shared playlist.
                     </p>
                 </div>
 
                 <div class="col-sm-4 col-sm-offset-1 col-sm-pull-6 iphone-image scroll-apparence appear-from-left">
-                    <img src="img/reader.png" data-rjs="3">
+                    <img src="img/group_playlist.png" data-rjs="3">
                 </div>
                 
-                
+            </div>
+        </div>
+    </section>
+
+    <section id="search-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 col-sm-offset-1 section-description">
+                    <i class="fas fa-search fa-6x center-icon"></i>
+                    <h2>
+                        <a href="https://listennotes.com">ListenNotes</a> Search Engine
+                    </h2>
+                    <p>
+                        Use search filters to find exactly what you're looking for.
+                    </p>
+                </div>
+                <div class="col-sm-4 iphone-image scroll-apparence appear-from-bottom">
+                    <img src="img/comments.png" data-rjs="3">
+                </div>
             </div>
         </div>
     </section>
@@ -165,181 +187,57 @@
         <div class="container">
             
             <div class="row">
-                <h2 class="header-text text-center">Features</h2>
+                <h2 class="header-text text-center">The Basics</h2>
                 <div class="col-md-4">
                     <div class="card">
                         <div class="icon">
-                            <i class="icon-night"></i>
+                            <i class="fas fa-cloud-download-alt fa-3x center-icon"></i>
                         </div>
                         <div class="text">
-                            <h4>Light & Dark themes</h4>
-                            <p>Choose between two themes or let the app automatically pick one according to the time and brightness of your screen.</p>
+                            <h4>Offline Use</h4>
+                            <p>Download episodes for offline listening.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
                         <div class="icon">
-                            <i class="icon-free"></i>
+                            <i class="far fa-clock fa-3x center-icon"></i>
                         </div>
-                        <h4>Free</h4>
-                        <p>HNBuddy is entirely free of cost and ads.</p>
+                        <h4>Sleep Timer</h4>
+                        <p>Goodnight.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
                         <div class="icon">
-                            <i class="icon-secure"></i>
+                            <i class="fas fa-podcast fa-3x center-icon"></i>
                         </div>
-                        <h4>Secure</h4>
-                        <p>Credentials are only used to log you in to Hacker News and are not shared with any third-party. The entire sign-in process is open source and documented <a href="https://github.com/tsucres/HNScraper">here</a>.</p>
+                        <h4>Subscribe to Shows</h4>
+                        <p>Stay updated as shows release new episodes.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
                         <div class="icon">
-                            <i class="icon-speed"></i>
+                            <i class="fas fa-list-ul fa-3x center-icon"></i>
                         </div>
-                        <h4>Fast</h4>
-                        <p>Optimized to load and render content smoothly.</p>
+                        <h4>Personal Playlist</h4>
+                        <p>Add episodes to your own local playlist. Multiple playlists coming soon.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="card">
                         <div class="icon">
-                            <i class="icon-easy"></i>
+                            <i class="fas fa-history fa-3x center-icon"></i>
                         </div>
-                        <h4>Simple & Intuitive</h4>
-                        <p>Provides an intuitive and attractive UI.</p>
+                        <h4>Listen History</h4>
+                        <p>Keep track of every episode you've ever listened to.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <section id="testimonials-section" class="parallax">
-        <div class="container">
-            <div class="row">
-                <h2 class="header-text text-center">What people think</h2>
-                <div class="col-sm-10 col-sm-offset-1 testimonial-list">
-                    
-                    <div role="tabpanel">
-                        <!-- Tab panes -->
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane fade in active" id="tab1">
-                                <div class="testimonial-image">
-                                    <img src="img/testimonials/einstein.jpg" alt="t1" data-rjs="3">
-                                </div>
-                                <div class="testimonial-text">
-                                    <p>
-                                        "Only two things are infinite, the universe and the quality of this app."<br>
-                                        <span>A. Einstein</span>
-                                    </p>
-                                </div>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="tab2">
-                                <div class="testimonial-image">
-                                    <img src="img/testimonials/beer-guy.jpg" alt="t2" data-rjs="3">
-                                </div>
-                                <div class="testimonial-text">
-                                    <p>
-                                        "I don't always browse Hacker News, but when I do it's with HNBuddy."<br>
-                                        <span>That guy with the beer</span>
-                                    </p>
-                                </div>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="tab3">
-                                <div class="testimonial-image">
-                                    <img src="img/testimonials/jobs.jpg" alt="t3" data-rjs="3">
-                                </div>
-                                <div class="testimonial-text">
-                                    <p>
-                                        "This app is the reason the iPhone was created."<br>
-                                         <span>S. Jobs</span>
-                                    </p>
-                                </div>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="tab4">
-                                <div class="testimonial-image">
-                                    <img src="img/testimonials/caesar.jpg" data-rjs="3" alt="t4">
-                                </div>
-                                <div class="testimonial-text">
-                                    <p>
-                                        "L xvh wklv dss hyhubgdb, dqg L oryh lw!"<br>
-                                        <span>J. Caesar</span>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Nav tabs -->
-                        <ul class="nav nav-tabs" role="tablist">
-                            <li role="presentation" class="active">
-                                <a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"></a>
-                            </li>
-                            <li role="presentation">
-                                <a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"></a>
-                            </li>
-                            <li role="presentation">
-                                <a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"></a>
-                            </li>
-                            <li role="presentation">
-                                <a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="parallax-img"></div>
-    </section>
-
-    <section id="cat-section" class="progressive-bg-image">
-        <!-- Progressive load of bg img -->
-        <noscript><img class="full-absolute" src="img/cat.jpg"></noscript>
-        <img class="hidden thumbnail" src="img/cat_mini.jpg"> <!-- TODO: b64 -->
-        <img class="full-bg-image hidden" src="img/cat.jpg">
-        <canvas class="full-absolute progressive-img-load-canvas"></canvas>
-        <!-- ===== -->
-        <div class="container">
-            <div class="row text-center">
-                <h2>Still not convinced? Here's a cat</h2>
-                <p>It might not change your mind, but there will be at least one thing you enjoy on this page.</p>
-                <div class="col-sm-12 text-center">
-                    <p class="img-source">source: freegreatpicture.com</p>
-                </div>
-                
-            </div>
-        </div>
-    </section>
-
-    <section id="ap-slideshow">
-        <div class="container">
-            <div class="row text-center">
-                <h2>Get it now!</h2>
-                <a href="https://itunes.apple.com/us/app/hnbuddy-hackernews-client/id1312439587?mt=8" target="_blank"><img src="img/appstore-button.png" data-rjs="3"></a>
-            <div class="row scroll">
-                <div class="screenshot-container">
-                <img src="img/appstore/home1.jpg" data-rjs="3">
-                <img src="img/appstore/home2.jpg" data-rjs="3">
-                <img src="img/appstore/reader.jpg" data-rjs="3">
-                <img src="img/appstore/lists.jpg" data-rjs="3">
-                <img src="img/appstore/discussion.jpg" data-rjs="3">
-            </div>
-            </div>
-        </div>
-    </section>
-
-    <footer>
-    <div class="container">
-        <div class="row text-center">
-            <p class="links">
-                <a href="https://itunes.apple.com/us/app/hnbuddy-hackernews-client/id1312439587">Appstore</a><!-- - <a href="">Github</a>--> - <a href="mailto:contact@hnbuddy.io">Contact</a>
-            </p>
-            <p>Made with <strong>passion</strong> in Brussels. Copyright 2017 <a href="https://github.com/tsucres">Stéphane Sercu</a>.</p>
-        </div>
-    </div>
-    
-</footer>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
