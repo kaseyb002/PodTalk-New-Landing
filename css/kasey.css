@@ -1,5 +1,5 @@
 body {
-	font-family: "Avenir";
+	font-family: "Georgia";
 	color: #FFF;
 	background: #ff7b14;
 	/* fallback for old browsers */
@@ -14,7 +14,7 @@ img.curved-shadow {
 }
 
 .big-title {
-	font-size: 5em;
+	font-size: 3em;
 }
 
 .big-subtitle {
@@ -27,4 +27,8 @@ img.curved-shadow {
 
 .phone-animation {
 	width: 80%;
+}
+
+a {
+	color: hotpink;
 }
