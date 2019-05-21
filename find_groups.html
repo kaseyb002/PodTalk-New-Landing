@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="HNBuddy, Hacker News, iOS, mobile, application">
+        <meta name="description" content="HNBuddy is (yet another) Hacker News client for iOS. It's elegant, fast secure and optimised for a great user experience. It includes a customisable reader, expandable discussion threads and supports most of the HN website's features.">
+        
+    <title>PodTalk</title>
+
+    <!-- favicon -->
+    <link rel="manifest" href="/favicons/manifest.json">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#fb882c">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.min.css">
+    <link rel="stylesheet" href="css/kasey.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    
+</head>
+<body>
+    
+    <section id="hero" class="progressive-bg-image">
+        <!-- Progressive load of bg img -->
+        <noscript><img class="full-absolute" src="img/background.jpg"></noscript>
+        <img class="hidden thumbnail" src="img/background_mini.jpg"> <!-- TODO: b64 -->
+        <!-- <img class="full-bg-image hidden" src="img/background.jpg"> -->
+        <canvas class="full-absolute progressive-img-load-canvas"></canvas>
+    </section>
+
+    <section id="lists-section">
+        <div class="container">
+            <div class="row bottom-separator">
+                <h2>
+                    EconTalkers
+                </h2>
+                <p>
+                    We discuss economics and some politics. EconTalk is the main show we follow.
+                </p>
+                    <a href="https://apple.com">Join EconTalkers</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="lists-section">
+        <div class="container">
+            <div class="row bottom-separator">
+                <h2>
+                    iOS Devs
+                </h2>
+                <p>
+                    Group for developers working on iOS and macOS.
+                </p>
+                    <a href="https://apple.com">Join iOS Devs</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section id="lists-section">
+        <div class="container">
+            <div class="row bottom-separator">
+                <h2>
+                    Startups
+                </h2>
+                <p>
+                    We talk about all the latest startup news and keep tabs on founder interviews.
+                </p>
+                    <a href="https://apple.com">Join Startups</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        
+
+        
+        <script type="text/javascript" src="js/retina.min.js"></script>
+        <script type="text/javascript" src="js/progressive-bg.js"></script>
+        <script src="js/parallax-background.min.js"></script>
+        <script type="text/javascript">
+            // https://code.tutsplus.com/tutorials/a-simple-parallax-scrolling-technique--net-27641
+            $(document).ready(function(){
+                $('.parallax').parallaxBackground({
+                  'image': '.parallax-img'
+                });
+
+                listsSection = $("#lists-section");
+                commentSectionEl = $("#comments-section");
+                readerSectionEl = $("#reader-section");
+                $(window).scroll(function(){
+                    var windowScrollTop = $(this).scrollTop();
+                    var windowHeight = $(this).height();
+                    if(windowScrollTop > listsSection.position().top - 0.8*windowHeight){
+                        $("#lists-section").find(".appear-from-bottom").each(
+                            function() {
+                                $(this).animate({opacity:1},700);
+                                $(this).removeClass("appear-from-bottom");
+                            }
+                        );
+                    }
+                    if(windowScrollTop > commentSectionEl.position().top - 0.8*windowHeight){
+                        $("#comments-section").find(".appear-from-bottom").each(
+                            function() {
+                                $(this).animate({opacity:1},700);
+                                $(this).removeClass("appear-from-bottom");
+                            }
+                        );
+                    }
+                    if(windowScrollTop > readerSectionEl.position().top - 0.8*windowHeight){
+                        $("#reader-section").find(".appear-from-left").each(
+                            function() {
+                                $(this).animate({opacity:1},700);
+                                $(this).removeClass("appear-from-left");
+                            }
+                        );
+                    }
+                });
+                $(window).scroll();
+            });
+
+
+            </script>
+
+        <script type="text/javascript">
+console.log(`%c  _    _          _   _             _     _                            _ 
+ | |  | |        | | | |           | |   | |                          | |
+ | |__| |   ___  | | | |   ___     | |_  | |__     ___   _ __    ___  | |
+ |  __  |  / _ \\ | | | |  / _ \\    | __| | '_ \\   / _ \\ | '__|  / _ \\ | |
+ | |  | | |  __/ | | | | | (_) |   | |_  | | | | |  __/ | |    |  __/ |_|
+ |_|  |_|  \\___| |_| |_|  \\___/     \\__| |_| |_|  \\___| |_|     \\___| (_)
+                                                                         
+                                                                         
+`, "font-family:monospace");
+            console.log("If you're here you may be interested in the github repo of the website: https://github.com/tsucres/HNBuddyLandingPage. It contains all the resources used to build this page :)"); 
+</script>
+          
+
+        
+</body>
+</html>
