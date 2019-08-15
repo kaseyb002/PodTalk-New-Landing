@@ -1,34 +1,33 @@
-body {
-	font-family: "Georgia";
-	color: #FFF;
-	background: #ff7b14;
-	/* fallback for old browsers */
-	background: -webkit-linear-gradient(to left, #212121, #53585F);
-	/* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to left, #212121, #53585F);
+header.masthead {
+  background: #000;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #000, #333);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #000, #333);
 }
 
-img.curved-shadow {
-  border-radius: 15px;
-  box-shadow: 2.2px 2.2px 2.2px 2.2px #222;
+img.feature {
+	width: 70%;
 }
 
-.big-title {
-	font-size: 3em;
+.bg-download {
+	background: #FFFFFF;
 }
 
-.big-subtitle {
-	font-size: 20em;
-}
-
-.cut-off-white-corners {
-	border-radius: 20px;
-}
-
-.phone-animation {
+img.features {
 	width: 80%;
 }
 
 a {
-	color: hotpink;
+	color: #EB0631;
+}
+
+section.features .feature-item i {
+  font-size: 80px;
+  display: block;
+  margin-bottom: 15px;
+  background: -webkit-gradient(linear, right top, left top, from(#EB0631), to(#EB0631));
+  background: linear-gradient(to left, #EB0631, #EB0631);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
