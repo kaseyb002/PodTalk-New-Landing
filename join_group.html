@@ -1,0 +1,92 @@
+<html>
+<head>
+  <title>Join PodTalk Group</title>
+  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+
+  html, body {
+    text-align: center;
+    background: #ffffff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 15px;
+  }
+
+  .container {
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+
+  .container p {
+    text-align: left;
+    line-height: 1.5;
+  }
+
+  .logo {
+    margin: 50px 0 25px 0;
+  }
+
+  .logo img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .appstore {
+    margin: 30px auto;
+  }
+
+  .appstore img {
+    width: 128px;
+    height: 40px;
+  }
+
+  img.curved-shadow {
+    border-radius: 15px;
+    box-shadow: 2.2px 2.2px 2.2px 2.2px #222;
+  }
+
+  </style>
+</head>
+<body onload="bounce()">
+
+<div class="container">
+  <div class="logo">
+    <a href="https://podtalk.app"><img src="img/podtalk-app-icon.png" class="logo curved-shadow"></a>
+  </div>
+
+  <div>
+    <p>
+      You've been invited to join a group on <a href="https://podtalk.app">PodTalk</a>!
+    </p>
+    <p>
+      If the link didn't work, download the <a href="https://apps.apple.com/us/app/podtalk/id1438894462">PodTalk app</a> and click the invite link again.
+    </p>
+    <p>
+      PodTalk lets you listen to and talk about podcasts with your friends.
+    </p>
+  </div>
+
+  <div class="appstore">
+    <a href="https://apps.apple.com/us/app/podtalk/id1438894462"><img class="app-store-badge" src="img/appstore-button.png" /></a>
+  </div>
+</div>
+
+<script>
+
+function bounce () {
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlParam = urlParams.get('u');
+
+  if (urlParam) {
+    document.location = urlParam;
+  }
+
+  return false;
+}
+
+bounce();
+
+</script>
+</body>
+</html>
+
