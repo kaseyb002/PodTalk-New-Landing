@@ -36,6 +36,10 @@ section.features .feature-item i {
   padding-top: 60px;
 }
 
+.top-baby-buffer {
+  padding-top: 20px;
+}
+
 .feature-title {
   font-size: 3em;
 }
@@ -45,5 +49,6 @@ section.features .feature-item i {
 }
 
 .feature-icon {
-  font-size: 5em;
+  font-size: 3em;
+  color: #EB0631;
 }
