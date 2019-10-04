@@ -31,3 +31,19 @@ section.features .feature-item i {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.top-buffer {
+  padding-top: 60px;
+}
+
+.feature-title {
+  font-size: 3em;
+}
+
+.feature-body {
+  font-size: 1.2em;
+}
+
+.feature-icon {
+  font-size: 5em;
+}
