@@ -7,7 +7,7 @@ header.masthead {
 }
 
 img.feature {
-	width: 80%;
+	width: 100%;
 }
 
 .bg-download {
@@ -15,13 +15,25 @@ img.feature {
 }
 
 img.features {
-	width: 80%;
+	width: 100%;
 
 
 }
 
+img.feature-shot {
+  width: 100%;
+}
+
 a {
 	color: #EB0631;
+}
+
+a:hover, a:focus {
+  color: #EB0631;
+}
+
+#mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
+  color: #EB0631;
 }
 
 section.features .feature-item i {
@@ -38,6 +50,10 @@ section.features .feature-item i {
   padding-top: 60px;
 }
 
+.bottom-buffer {
+  padding-bottom: 60px;
+}
+
 .top-baby-buffer {
   padding-top: 20px;
 }
@@ -51,6 +67,20 @@ section.features .feature-item i {
 }
 
 .feature-icon {
-  font-size: 3em;
+  font-size: 4em;
   color: #EB0631;
+}
+
+.step-number {
+  font-size: 4em;
+  font-weight: bold;
+  color: #EB0631;
+}
+
+.qa-title {
+  font-size: 2.5em;
+}
+
+.main-action-button {
+  font-size: 1.15em;
 }
