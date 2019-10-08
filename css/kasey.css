@@ -25,12 +25,14 @@ img.feature {
 
 img.features {
 	width: 100%;
-
-
 }
 
 img.feature-shot {
   width: 100%;
+}
+
+img.main-shot {
+  width: 90%;
 }
 
 a {
