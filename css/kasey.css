@@ -129,6 +129,10 @@ section.features .feature-item i {
   border-color: #440000
 }
 
+.big-title-padding {
+  padding-top: 100px;
+}
+
 footer {
   position: fixed;
   left: 0;
