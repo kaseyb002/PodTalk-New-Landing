@@ -10,431 +10,484 @@
     <language>en-us</language>
     <itunes:image href="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/cantor.png" />
     <itunes:author>Paul Cantor</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-
-<item>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education"/>
+    <item>
       <title>001 Introduction To Shakespeare And Politics</title>
+      <itunes:title>001 Introduction To Shakespeare And Politics</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/001_introduction_to_shakespeare_and_politics_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>001_introduction_to_shakespeare_and_politics_mp3.mp3</guid>
+      <guid isPermaLink="false">001_introduction_to_shakespeare_and_politics_mp3.mp3</guid>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>002 Hamlet 1 Of 3</title>
+      <itunes:title>002 Hamlet 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/002_hamlet_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>002_hamlet_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">002_hamlet_1_of_3_mp3.mp3</guid>
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>003 Hamlet 2 Of 3</title>
+      <itunes:title>003 Hamlet 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/003_hamlet_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>003_hamlet_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">003_hamlet_2_of_3_mp3.mp3</guid>
       <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>004 Hamlet 3 Of 3</title>
+      <itunes:title>004 Hamlet 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/004_hamlet_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>004_hamlet_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">004_hamlet_3_of_3_mp3.mp3</guid>
       <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>005 Macbeth 1 Of 3</title>
+      <itunes:title>005 Macbeth 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/005_macbeth_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>005_macbeth_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">005_macbeth_1_of_3_mp3.mp3</guid>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>006 Macbeth 2 Of 3</title>
+      <itunes:title>006 Macbeth 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/006_macbeth_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>006_macbeth_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">006_macbeth_2_of_3_mp3.mp3</guid>
       <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>007 Macbeth 3 Of 3</title>
+      <itunes:title>007 Macbeth 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/007_macbeth_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>007_macbeth_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">007_macbeth_3_of_3_mp3.mp3</guid>
       <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>008 Othello 1 Of 3</title>
+      <itunes:title>008 Othello 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/008_othello_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>008_othello_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">008_othello_1_of_3_mp3.mp3</guid>
       <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>009 Othello 2 Of 3</title>
+      <itunes:title>009 Othello 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/009_othello_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>009_othello_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">009_othello_2_of_3_mp3.mp3</guid>
       <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>010 Othello 3 Of 3</title>
+      <itunes:title>010 Othello 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/010_othello_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>010_othello_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">010_othello_3_of_3_mp3.mp3</guid>
       <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>011 The Merchant Of Venice 1 Of 3</title>
+      <itunes:title>011 The Merchant Of Venice 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/011_the_merchant_of_venice_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>011_the_merchant_of_venice_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">011_the_merchant_of_venice_1_of_3_mp3.mp3</guid>
       <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>012 The Merchant Of Venice 2 Of 3</title>
+      <itunes:title>012 The Merchant Of Venice 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/012_the_merchant_of_venice_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>012_the_merchant_of_venice_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">012_the_merchant_of_venice_2_of_3_mp3.mp3</guid>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>013 The Merchant Of Venice 3 Of 3</title>
+      <itunes:title>013 The Merchant Of Venice 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/013_the_merchant_of_venice_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>013_the_merchant_of_venice_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">013_the_merchant_of_venice_3_of_3_mp3.mp3</guid>
       <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>014 Julius Caesar 1 Of 3</title>
+      <itunes:title>014 Julius Caesar 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/014_julius_caesar_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>014_julius_caesar_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">014_julius_caesar_1_of_3_mp3.mp3</guid>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>015 Julius Caesar 2 Of 3</title>
+      <itunes:title>015 Julius Caesar 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/015_julius_caesar_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>015_julius_caesar_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">015_julius_caesar_2_of_3_mp3.mp3</guid>
       <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>016 Julius Caesar 3 Of 3</title>
+      <itunes:title>016 Julius Caesar 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/016_julius_caesar_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>016_julius_caesar_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">016_julius_caesar_3_of_3_mp3.mp3</guid>
       <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>017 Shakespeare S Rome Day 1 Intro Coriolanus</title>
+      <itunes:title>017 Shakespeare S Rome Day 1 Intro Coriolanus</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3</guid>
+      <guid isPermaLink="false">017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3</guid>
       <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>018 Shakespeare S Rome Day 2 Coriolanus Julius Caesar</title>
+      <itunes:title>018 Shakespeare S Rome Day 2 Coriolanus Julius Caesar</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3</guid>
+      <guid isPermaLink="false">018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3</guid>
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>019 Shakespeare S Rome Day 3 Julius Caesar</title>
+      <itunes:title>019 Shakespeare S Rome Day 3 Julius Caesar</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3</guid>
+      <guid isPermaLink="false">019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3</guid>
       <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>020 Shakespeare S Rome Day 5 Antony Cleopatra Conclusion</title>
+      <itunes:title>020 Shakespeare S Rome Day 5 Antony Cleopatra Conclusion</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3</guid>
+      <guid isPermaLink="false">020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3</guid>
       <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>021 Shakespeare S Rome Day 4 Julius Caesar Antony Cleopatra</title>
+      <itunes:title>021 Shakespeare S Rome Day 4 Julius Caesar Antony Cleopatra</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3</guid>
+      <guid isPermaLink="false">021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3</guid>
       <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>022 Henry V 1 Of 3</title>
+      <itunes:title>022 Henry V 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/022_henry_v_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>022_henry_v_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">022_henry_v_1_of_3_mp3.mp3</guid>
       <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>023 Henry V 2 Of 3</title>
+      <itunes:title>023 Henry V 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/023_henry_v_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>023_henry_v_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">023_henry_v_2_of_3_mp3.mp3</guid>
       <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>024 Henry V 3 Of 3</title>
+      <itunes:title>024 Henry V 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/024_henry_v_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>024_henry_v_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">024_henry_v_3_of_3_mp3.mp3</guid>
       <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>025 Henry V Lecture 2 Of 4</title>
+      <itunes:title>025 Henry V Lecture 2 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/025_henry_v_lecture_2_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>025_henry_v_lecture_2_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">025_henry_v_lecture_2_of_4_mp3.mp3</guid>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>026 Henry V Lecture 3 Of 4</title>
+      <itunes:title>026 Henry V Lecture 3 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/026_henry_v_lecture_3_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>026_henry_v_lecture_3_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">026_henry_v_lecture_3_of_4_mp3.mp3</guid>
       <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>027 Antony And Cleopatra 1 Of 3</title>
+      <itunes:title>027 Antony And Cleopatra 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/027_antony_and_cleopatra_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>027_antony_and_cleopatra_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">027_antony_and_cleopatra_1_of_3_mp3.mp3</guid>
       <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>028 Antony And Cleopatra 2 Of 3</title>
+      <itunes:title>028 Antony And Cleopatra 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/028_antony_and_cleopatra_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>028_antony_and_cleopatra_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">028_antony_and_cleopatra_2_of_3_mp3.mp3</guid>
       <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>029 Antony And Cleopatra 3 Of 3</title>
+      <itunes:title>029 Antony And Cleopatra 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/029_antony_and_cleopatra_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>029_antony_and_cleopatra_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">029_antony_and_cleopatra_3_of_3_mp3.mp3</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>030 Coriolanus 1 Of 3</title>
+      <itunes:title>030 Coriolanus 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/030_coriolanus_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>030_coriolanus_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">030_coriolanus_1_of_3_mp3.mp3</guid>
       <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>031 Coriolanus 2 Of 3</title>
+      <itunes:title>031 Coriolanus 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/031_coriolanus_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>031_coriolanus_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">031_coriolanus_2_of_3_mp3.mp3</guid>
       <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>032 Coriolanus 3 Of 3</title>
+      <itunes:title>032 Coriolanus 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/032_coriolanus_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>032_coriolanus_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">032_coriolanus_3_of_3_mp3.mp3</guid>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>033 Introduction Richard Ii Lecture 1 Of 3</title>
+      <itunes:title>033 Introduction Richard Ii Lecture 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/033_introduction_richard_ii_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>033_introduction_richard_ii_lecture_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">033_introduction_richard_ii_lecture_1_of_3_mp3.mp3</guid>
       <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>034 Richard Ii Lecture 2 Of 3</title>
+      <itunes:title>034 Richard Ii Lecture 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/034_richard_ii_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>034_richard_ii_lecture_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">034_richard_ii_lecture_2_of_3_mp3.mp3</guid>
       <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>035 Richard Ii Lecture 3 Of 3 Henry Iv Part One Lecture 1 Of 3</title>
+      <itunes:title>035 Richard Ii Lecture 3 Of 3 Henry Iv Part One Lecture 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3</guid>
       <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>036 Henry Iv Part One Lecture 2 Of 3</title>
+      <itunes:title>036 Henry Iv Part One Lecture 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/036_henry_iv_part_one_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>036_henry_iv_part_one_lecture_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">036_henry_iv_part_one_lecture_2_of_3_mp3.mp3</guid>
       <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>037 Henry Iv Part One Lecture 3 Of 3 Henry Iv Part Two Lecture 1 Of 3</title>
+      <itunes:title>037 Henry Iv Part One Lecture 3 Of 3 Henry Iv Part Two Lecture 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3</guid>
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>038 Henry Iv Part Two Lecture 2 Of 3</title>
+      <itunes:title>038 Henry Iv Part Two Lecture 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/038_henry_iv_part_two_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>038_henry_iv_part_two_lecture_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">038_henry_iv_part_two_lecture_2_of_3_mp3.mp3</guid>
       <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>039 Henry Iv Part Two Lecture 3 Of 3 Henry V Lecture 1 Of 4</title>
+      <itunes:title>039 Henry Iv Part Two Lecture 3 Of 3 Henry V Lecture 1 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3</guid>
       <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>040 Henry V Lecture 4 Of 4 Romeo And Juliet Lecture 1 Of 3</title>
+      <itunes:title>040 Henry V Lecture 4 Of 4 Romeo And Juliet Lecture 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3</guid>
       <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>041 Romeo And Juliet Lecture 2 Of 3</title>
+      <itunes:title>041 Romeo And Juliet Lecture 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/041_romeo_and_juliet_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>041_romeo_and_juliet_lecture_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">041_romeo_and_juliet_lecture_2_of_3_mp3.mp3</guid>
       <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>042 Romeo And Juliet Lecture 3 Of 3 A Midsummer Night S Dream Lecture 1 Of 3</title>
+      <itunes:title>042 Romeo And Juliet Lecture 3 Of 3 A Midsummer Night S Dream Lecture 1 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3</guid>
       <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>043 A Midsummer Night S Dream Lecture 2 Of 3</title>
+      <itunes:title>043 A Midsummer Night S Dream Lecture 2 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3</guid>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>044 A Midsummer Night S Dream Lecture 3 Of 3</title>
+      <itunes:title>044 A Midsummer Night S Dream Lecture 3 Of 3</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3</guid>
+      <guid isPermaLink="false">044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3</guid>
       <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>045 As You Like It Lecture 1 Of 2</title>
+      <itunes:title>045 As You Like It Lecture 1 Of 2</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/045_as_you_like_it_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>045_as_you_like_it_lecture_1_of_2_mp3.mp3</guid>
+      <guid isPermaLink="false">045_as_you_like_it_lecture_1_of_2_mp3.mp3</guid>
       <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>046 As You Like It Lecture 2 Of 2</title>
+      <itunes:title>046 As You Like It Lecture 2 Of 2</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/046_as_you_like_it_lecture_2_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>046_as_you_like_it_lecture_2_of_2_mp3.mp3</guid>
+      <guid isPermaLink="false">046_as_you_like_it_lecture_2_of_2_mp3.mp3</guid>
       <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>047 Twelfth Night Lecture 1 Of 2</title>
+      <itunes:title>047 Twelfth Night Lecture 1 Of 2</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/047_twelfth_night_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>047_twelfth_night_lecture_1_of_2_mp3.mp3</guid>
+      <guid isPermaLink="false">047_twelfth_night_lecture_1_of_2_mp3.mp3</guid>
       <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>048 Twelfth Night Lecture 2 Of 2 King Lear Lecture 1 Of 4</title>
+      <itunes:title>048 Twelfth Night Lecture 2 Of 2 King Lear Lecture 1 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3</guid>
       <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>049 King Lear Lecture 2 Of 4</title>
+      <itunes:title>049 King Lear Lecture 2 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/049_king_lear_lecture_2_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>049_king_lear_lecture_2_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">049_king_lear_lecture_2_of_4_mp3.mp3</guid>
       <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>050 King Lear Lecture 3 Of 4</title>
+      <itunes:title>050 King Lear Lecture 3 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/050_king_lear_lecture_3_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>050_king_lear_lecture_3_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">050_king_lear_lecture_3_of_4_mp3.mp3</guid>
       <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>051 King Lear Lecture 4 Of 4</title>
+      <itunes:title>051 King Lear Lecture 4 Of 4</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/051_king_lear_lecture_4_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>051_king_lear_lecture_4_of_4_mp3.mp3</guid>
+      <guid isPermaLink="false">051_king_lear_lecture_4_of_4_mp3.mp3</guid>
       <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>052 The Tempest Lecture 1 Of 2</title>
+      <itunes:title>052 The Tempest Lecture 1 Of 2</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/052_the_tempest_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>052_the_tempest_lecture_1_of_2_mp3.mp3</guid>
+      <guid isPermaLink="false">052_the_tempest_lecture_1_of_2_mp3.mp3</guid>
       <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
       <title>053 The Tempest Lecture 2 Of 2 Conclusion</title>
+      <itunes:title>053 The Tempest Lecture 2 Of 2 Conclusion</itunes:title>
       <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid>053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3</guid>
+      <guid isPermaLink="false">053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3</guid>
       <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
       <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
