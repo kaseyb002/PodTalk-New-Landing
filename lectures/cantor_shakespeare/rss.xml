@@ -1,493 +1,602 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Shakespeare & Politics - Cantor Lectures</title>
+<language>en-us</language>
+<itunes:subtitle>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:subtitle>
+<itunes:author>Paul Cantor</itunes:author>
+<itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+<description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+<itunes:owner>
+    <itunes:name>Kasey Baughan</itunes:name>
+    <itunes:email>kasey.podtalk@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/cantor.png"/>
+<itunes:category text="Education"/>
 
-  <channel>
-    <title>Shakespeare & Politics - Cantor Lectures</title>
-    <link>https://kaseyb002.github.io/PodTalk-New-Landing/lectures/cantor_shakespeare/</link>
+<item>
+    <title>001 Introduction To Shakespeare And Politics</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
     <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
-    <language>en-us</language>
-    <itunes:image href="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/cantor.png" />
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/001_introduction_to_shakespeare_and_politics_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 01 Jul 2024 18:00:00 +0000</pubDate>
     <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Education"/>
-    <item>
-      <title>001 Introduction To Shakespeare And Politics</title>
-      <itunes:title>001 Introduction To Shakespeare And Politics</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/001_introduction_to_shakespeare_and_politics_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">001_introduction_to_shakespeare_and_politics_mp3.mp3</guid>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>002 Hamlet 1 Of 3</title>
-      <itunes:title>002 Hamlet 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/002_hamlet_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">002_hamlet_1_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>003 Hamlet 2 Of 3</title>
-      <itunes:title>003 Hamlet 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/003_hamlet_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">003_hamlet_2_of_3_mp3.mp3</guid>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>004 Hamlet 3 Of 3</title>
-      <itunes:title>004 Hamlet 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/004_hamlet_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">004_hamlet_3_of_3_mp3.mp3</guid>
-      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>005 Macbeth 1 Of 3</title>
-      <itunes:title>005 Macbeth 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/005_macbeth_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">005_macbeth_1_of_3_mp3.mp3</guid>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>006 Macbeth 2 Of 3</title>
-      <itunes:title>006 Macbeth 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/006_macbeth_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">006_macbeth_2_of_3_mp3.mp3</guid>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>007 Macbeth 3 Of 3</title>
-      <itunes:title>007 Macbeth 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/007_macbeth_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">007_macbeth_3_of_3_mp3.mp3</guid>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>008 Othello 1 Of 3</title>
-      <itunes:title>008 Othello 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/008_othello_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">008_othello_1_of_3_mp3.mp3</guid>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>009 Othello 2 Of 3</title>
-      <itunes:title>009 Othello 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/009_othello_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">009_othello_2_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>010 Othello 3 Of 3</title>
-      <itunes:title>010 Othello 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/010_othello_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">010_othello_3_of_3_mp3.mp3</guid>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>011 The Merchant Of Venice 1 Of 3</title>
-      <itunes:title>011 The Merchant Of Venice 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/011_the_merchant_of_venice_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">011_the_merchant_of_venice_1_of_3_mp3.mp3</guid>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>012 The Merchant Of Venice 2 Of 3</title>
-      <itunes:title>012 The Merchant Of Venice 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/012_the_merchant_of_venice_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">012_the_merchant_of_venice_2_of_3_mp3.mp3</guid>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>013 The Merchant Of Venice 3 Of 3</title>
-      <itunes:title>013 The Merchant Of Venice 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/013_the_merchant_of_venice_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">013_the_merchant_of_venice_3_of_3_mp3.mp3</guid>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>014 Julius Caesar 1 Of 3</title>
-      <itunes:title>014 Julius Caesar 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/014_julius_caesar_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">014_julius_caesar_1_of_3_mp3.mp3</guid>
-      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>015 Julius Caesar 2 Of 3</title>
-      <itunes:title>015 Julius Caesar 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/015_julius_caesar_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">015_julius_caesar_2_of_3_mp3.mp3</guid>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>016 Julius Caesar 3 Of 3</title>
-      <itunes:title>016 Julius Caesar 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/016_julius_caesar_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">016_julius_caesar_3_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>017 Shakespeare S Rome Day 1 Intro Coriolanus</title>
-      <itunes:title>017 Shakespeare S Rome Day 1 Intro Coriolanus</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3</guid>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>018 Shakespeare S Rome Day 2 Coriolanus Julius Caesar</title>
-      <itunes:title>018 Shakespeare S Rome Day 2 Coriolanus Julius Caesar</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3</guid>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>019 Shakespeare S Rome Day 3 Julius Caesar</title>
-      <itunes:title>019 Shakespeare S Rome Day 3 Julius Caesar</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3</guid>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>020 Shakespeare S Rome Day 5 Antony Cleopatra Conclusion</title>
-      <itunes:title>020 Shakespeare S Rome Day 5 Antony Cleopatra Conclusion</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3</guid>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>021 Shakespeare S Rome Day 4 Julius Caesar Antony Cleopatra</title>
-      <itunes:title>021 Shakespeare S Rome Day 4 Julius Caesar Antony Cleopatra</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3</guid>
-      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>022 Henry V 1 Of 3</title>
-      <itunes:title>022 Henry V 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/022_henry_v_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">022_henry_v_1_of_3_mp3.mp3</guid>
-      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>023 Henry V 2 Of 3</title>
-      <itunes:title>023 Henry V 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/023_henry_v_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">023_henry_v_2_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>024 Henry V 3 Of 3</title>
-      <itunes:title>024 Henry V 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/024_henry_v_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">024_henry_v_3_of_3_mp3.mp3</guid>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>025 Henry V Lecture 2 Of 4</title>
-      <itunes:title>025 Henry V Lecture 2 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/025_henry_v_lecture_2_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">025_henry_v_lecture_2_of_4_mp3.mp3</guid>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>026 Henry V Lecture 3 Of 4</title>
-      <itunes:title>026 Henry V Lecture 3 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/026_henry_v_lecture_3_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">026_henry_v_lecture_3_of_4_mp3.mp3</guid>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>027 Antony And Cleopatra 1 Of 3</title>
-      <itunes:title>027 Antony And Cleopatra 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/027_antony_and_cleopatra_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">027_antony_and_cleopatra_1_of_3_mp3.mp3</guid>
-      <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>028 Antony And Cleopatra 2 Of 3</title>
-      <itunes:title>028 Antony And Cleopatra 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/028_antony_and_cleopatra_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">028_antony_and_cleopatra_2_of_3_mp3.mp3</guid>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>029 Antony And Cleopatra 3 Of 3</title>
-      <itunes:title>029 Antony And Cleopatra 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/029_antony_and_cleopatra_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">029_antony_and_cleopatra_3_of_3_mp3.mp3</guid>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>030 Coriolanus 1 Of 3</title>
-      <itunes:title>030 Coriolanus 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/030_coriolanus_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">030_coriolanus_1_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>031 Coriolanus 2 Of 3</title>
-      <itunes:title>031 Coriolanus 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/031_coriolanus_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">031_coriolanus_2_of_3_mp3.mp3</guid>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>032 Coriolanus 3 Of 3</title>
-      <itunes:title>032 Coriolanus 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/032_coriolanus_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">032_coriolanus_3_of_3_mp3.mp3</guid>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>033 Introduction Richard Ii Lecture 1 Of 3</title>
-      <itunes:title>033 Introduction Richard Ii Lecture 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/033_introduction_richard_ii_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">033_introduction_richard_ii_lecture_1_of_3_mp3.mp3</guid>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>034 Richard Ii Lecture 2 Of 3</title>
-      <itunes:title>034 Richard Ii Lecture 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/034_richard_ii_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">034_richard_ii_lecture_2_of_3_mp3.mp3</guid>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>035 Richard Ii Lecture 3 Of 3 Henry Iv Part One Lecture 1 Of 3</title>
-      <itunes:title>035 Richard Ii Lecture 3 Of 3 Henry Iv Part One Lecture 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3</guid>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>036 Henry Iv Part One Lecture 2 Of 3</title>
-      <itunes:title>036 Henry Iv Part One Lecture 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/036_henry_iv_part_one_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">036_henry_iv_part_one_lecture_2_of_3_mp3.mp3</guid>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>037 Henry Iv Part One Lecture 3 Of 3 Henry Iv Part Two Lecture 1 Of 3</title>
-      <itunes:title>037 Henry Iv Part One Lecture 3 Of 3 Henry Iv Part Two Lecture 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>038 Henry Iv Part Two Lecture 2 Of 3</title>
-      <itunes:title>038 Henry Iv Part Two Lecture 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/038_henry_iv_part_two_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">038_henry_iv_part_two_lecture_2_of_3_mp3.mp3</guid>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>039 Henry Iv Part Two Lecture 3 Of 3 Henry V Lecture 1 Of 4</title>
-      <itunes:title>039 Henry Iv Part Two Lecture 3 Of 3 Henry V Lecture 1 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3</guid>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>040 Henry V Lecture 4 Of 4 Romeo And Juliet Lecture 1 Of 3</title>
-      <itunes:title>040 Henry V Lecture 4 Of 4 Romeo And Juliet Lecture 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3</guid>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>041 Romeo And Juliet Lecture 2 Of 3</title>
-      <itunes:title>041 Romeo And Juliet Lecture 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/041_romeo_and_juliet_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">041_romeo_and_juliet_lecture_2_of_3_mp3.mp3</guid>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>042 Romeo And Juliet Lecture 3 Of 3 A Midsummer Night S Dream Lecture 1 Of 3</title>
-      <itunes:title>042 Romeo And Juliet Lecture 3 Of 3 A Midsummer Night S Dream Lecture 1 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3</guid>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>043 A Midsummer Night S Dream Lecture 2 Of 3</title>
-      <itunes:title>043 A Midsummer Night S Dream Lecture 2 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3</guid>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>044 A Midsummer Night S Dream Lecture 3 Of 3</title>
-      <itunes:title>044 A Midsummer Night S Dream Lecture 3 Of 3</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3</guid>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>045 As You Like It Lecture 1 Of 2</title>
-      <itunes:title>045 As You Like It Lecture 1 Of 2</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/045_as_you_like_it_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">045_as_you_like_it_lecture_1_of_2_mp3.mp3</guid>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>046 As You Like It Lecture 2 Of 2</title>
-      <itunes:title>046 As You Like It Lecture 2 Of 2</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/046_as_you_like_it_lecture_2_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">046_as_you_like_it_lecture_2_of_2_mp3.mp3</guid>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>047 Twelfth Night Lecture 1 Of 2</title>
-      <itunes:title>047 Twelfth Night Lecture 1 Of 2</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/047_twelfth_night_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">047_twelfth_night_lecture_1_of_2_mp3.mp3</guid>
-      <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>048 Twelfth Night Lecture 2 Of 2 King Lear Lecture 1 Of 4</title>
-      <itunes:title>048 Twelfth Night Lecture 2 Of 2 King Lear Lecture 1 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3</guid>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>049 King Lear Lecture 2 Of 4</title>
-      <itunes:title>049 King Lear Lecture 2 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/049_king_lear_lecture_2_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">049_king_lear_lecture_2_of_4_mp3.mp3</guid>
-      <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>050 King Lear Lecture 3 Of 4</title>
-      <itunes:title>050 King Lear Lecture 3 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/050_king_lear_lecture_3_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">050_king_lear_lecture_3_of_4_mp3.mp3</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>051 King Lear Lecture 4 Of 4</title>
-      <itunes:title>051 King Lear Lecture 4 Of 4</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/051_king_lear_lecture_4_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">051_king_lear_lecture_4_of_4_mp3.mp3</guid>
-      <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>052 The Tempest Lecture 1 Of 2</title>
-      <itunes:title>052 The Tempest Lecture 1 Of 2</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/052_the_tempest_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">052_the_tempest_lecture_1_of_2_mp3.mp3</guid>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>053 The Tempest Lecture 2 Of 2 Conclusion</title>
-      <itunes:title>053 The Tempest Lecture 2 Of 2 Conclusion</itunes:title>
-      <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3" length="0" type="audio/mpeg"/>
-      <guid isPermaLink="false">053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3</guid>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-      <itunes:author>Paul Cantor</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-  </channel>
+    <guid>3f4467bc-30ca-497d-8e70-f6f4b66be0cc</guid>
+</item>
+<item>
+    <title>002 Hamlet 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/002_hamlet_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 02 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>d0597163-1574-42f3-a973-b58c616e4ad9</guid>
+</item>
+<item>
+    <title>003 Hamlet 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/003_hamlet_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 03 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>a509accc-4500-4969-ba26-82f3fe840351</guid>
+</item>
+<item>
+    <title>004 Hamlet 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/004_hamlet_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 04 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>3ea0e0dc-a7a5-4ab9-8851-322168421d4e</guid>
+</item>
+<item>
+    <title>005 Macbeth 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/005_macbeth_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 05 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>91985508-835f-4559-bfea-ab2d38d25655</guid>
+</item>
+<item>
+    <title>006 Macbeth 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/006_macbeth_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 06 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>b8b33e58-2dba-4eaf-82fe-ade96f1aca87</guid>
+</item>
+<item>
+    <title>007 Macbeth 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/007_macbeth_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 07 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>26014317-3679-4c6f-a550-fd6983bb4b25</guid>
+</item>
+<item>
+    <title>008 Othello 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/008_othello_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 08 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>de03db6c-c15d-4f0f-9e99-5010e86b75a5</guid>
+</item>
+<item>
+    <title>009 Othello 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/009_othello_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 09 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>8d55dcf0-dee7-48ad-9ed6-171b3202945b</guid>
+</item>
+<item>
+    <title>010 Othello 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/010_othello_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 10 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>9e1996e2-47b4-4508-819f-a7bd59e14132</guid>
+</item>
+<item>
+    <title>011 The Merchant Of Venice 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/011_the_merchant_of_venice_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 11 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>82b2ef3b-cc57-40f8-8d3c-5b3d827107da</guid>
+</item>
+<item>
+    <title>012 The Merchant Of Venice 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/012_the_merchant_of_venice_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 12 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>5a646061-c637-480e-856d-a75a67d46807</guid>
+</item>
+<item>
+    <title>013 The Merchant Of Venice 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/013_the_merchant_of_venice_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 13 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>46c4b493-78eb-4d3f-b6d0-1838730bbfca</guid>
+</item>
+<item>
+    <title>014 Julius Caesar 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/014_julius_caesar_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 14 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>c6547bec-3032-4cd0-b7d2-7fd665267d48</guid>
+</item>
+<item>
+    <title>015 Julius Caesar 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/015_julius_caesar_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 15 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>2a22af46-ce55-479e-980b-7a91e466ad95</guid>
+</item>
+<item>
+    <title>016 Julius Caesar 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/016_julius_caesar_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 16 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>8e49dc0f-f532-4c00-9480-39a4eba79d73</guid>
+</item>
+<item>
+    <title>017 Shakespeare S Rome Day 1 Intro Coriolanus</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 17 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>6696d746-0d36-4597-8f9c-cc81144129d8</guid>
+</item>
+<item>
+    <title>018 Shakespeare S Rome Day 2 Coriolanus Julius Caesar</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 18 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>b508bc3e-17ab-4c63-9355-4e50a50511ef</guid>
+</item>
+<item>
+    <title>019 Shakespeare S Rome Day 3 Julius Caesar</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 19 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>723064e9-1a9a-4b80-966a-ddb534935377</guid>
+</item>
+<item>
+    <title>020 Shakespeare S Rome Day 5 Antony Cleopatra Conclusion</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 20 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>0bc5ab31-3529-4a8c-a465-177dd32e5ab1</guid>
+</item>
+<item>
+    <title>021 Shakespeare S Rome Day 4 Julius Caesar Antony Cleopatra</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 21 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>150d2c13-d569-476a-b7e8-3da97c3f40fc</guid>
+</item>
+<item>
+    <title>022 Henry V 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/022_henry_v_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 22 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>73a6d73e-4f14-421b-9c8f-17323f85c474</guid>
+</item>
+<item>
+    <title>023 Henry V 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/023_henry_v_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 23 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>991ca570-5586-43b8-b0e9-dc02524c3a7a</guid>
+</item>
+<item>
+    <title>024 Henry V 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/024_henry_v_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 24 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>ea7b1e97-5aca-4137-a7e2-8a92c2cad52d</guid>
+</item>
+<item>
+    <title>025 Henry V Lecture 2 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/025_henry_v_lecture_2_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 25 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>4452800d-9830-49c8-9a10-04c527d96de8</guid>
+</item>
+<item>
+    <title>026 Henry V Lecture 3 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/026_henry_v_lecture_3_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 26 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>0e6214ef-ea3a-4418-be9e-ae2fb3e69a5f</guid>
+</item>
+<item>
+    <title>027 Antony And Cleopatra 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/027_antony_and_cleopatra_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 27 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>6c164104-1b30-4bbb-ba32-f12199a6880b</guid>
+</item>
+<item>
+    <title>028 Antony And Cleopatra 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/028_antony_and_cleopatra_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 28 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>d82197b8-6097-4961-9f5b-2042f9c687ee</guid>
+</item>
+<item>
+    <title>029 Antony And Cleopatra 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/029_antony_and_cleopatra_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 29 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>811f8aa1-6c94-46e6-b2c9-de74d380ccbc</guid>
+</item>
+<item>
+    <title>030 Coriolanus 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/030_coriolanus_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 30 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>1e768f69-16c4-4cc0-81a0-65c889566d50</guid>
+</item>
+<item>
+    <title>031 Coriolanus 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/031_coriolanus_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 31 Jul 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>836ad802-fee2-44cd-8ef9-b930dfd34556</guid>
+</item>
+<item>
+    <title>032 Coriolanus 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/032_coriolanus_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 01 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>80cdefa7-e74e-44dc-92a6-2cedfede043c</guid>
+</item>
+<item>
+    <title>033 Introduction Richard Ii Lecture 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/033_introduction_richard_ii_lecture_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 02 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>ba1eabb6-c466-4e7a-b2bf-0f65ac2ad7f6</guid>
+</item>
+<item>
+    <title>034 Richard Ii Lecture 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/034_richard_ii_lecture_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 03 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>83ad9429-0878-4493-bf12-d7989568e1a5</guid>
+</item>
+<item>
+    <title>035 Richard Ii Lecture 3 Of 3 Henry Iv Part One Lecture 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 04 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>de1970dc-02ea-49ad-b383-c8f880202622</guid>
+</item>
+<item>
+    <title>036 Henry Iv Part One Lecture 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/036_henry_iv_part_one_lecture_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 05 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>f0c42384-28ad-4fe4-9aff-d529c8cd6c25</guid>
+</item>
+<item>
+    <title>037 Henry Iv Part One Lecture 3 Of 3 Henry Iv Part Two Lecture 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 06 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>a9f46bfc-a38c-4340-87f7-b6cf1f023281</guid>
+</item>
+<item>
+    <title>038 Henry Iv Part Two Lecture 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/038_henry_iv_part_two_lecture_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 07 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>485bb336-3895-4c46-9e0d-bac1780df044</guid>
+</item>
+<item>
+    <title>039 Henry Iv Part Two Lecture 3 Of 3 Henry V Lecture 1 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 08 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>15783d37-b17d-470a-9024-fad967325665</guid>
+</item>
+<item>
+    <title>040 Henry V Lecture 4 Of 4 Romeo And Juliet Lecture 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 09 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>674856b7-5a08-4fba-9b20-9a7bc057576a</guid>
+</item>
+<item>
+    <title>041 Romeo And Juliet Lecture 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/041_romeo_and_juliet_lecture_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 10 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>9b15e3b0-e5fb-4221-96a4-634a38086fbd</guid>
+</item>
+<item>
+    <title>042 Romeo And Juliet Lecture 3 Of 3 A Midsummer Night S Dream Lecture 1 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 11 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>999e3133-f71b-44b7-92a9-4fbe807093bd</guid>
+</item>
+<item>
+    <title>043 A Midsummer Night S Dream Lecture 2 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 12 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>f2ceecc8-e8df-4363-b418-74a9cf3c4f5a</guid>
+</item>
+<item>
+    <title>044 A Midsummer Night S Dream Lecture 3 Of 3</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 13 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>64f1a996-ec7c-4477-899d-e6965d988366</guid>
+</item>
+<item>
+    <title>045 As You Like It Lecture 1 Of 2</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/045_as_you_like_it_lecture_1_of_2_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 14 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>5512d7eb-9b28-493f-8c18-d2e6fc681eb8</guid>
+</item>
+<item>
+    <title>046 As You Like It Lecture 2 Of 2</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/046_as_you_like_it_lecture_2_of_2_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 15 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>a85e73ff-fe88-465f-9d91-eb4fe1c1c9a9</guid>
+</item>
+<item>
+    <title>047 Twelfth Night Lecture 1 Of 2</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/047_twelfth_night_lecture_1_of_2_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Fri, 16 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>ba12eb6a-f228-497e-9e14-51908d4385a1</guid>
+</item>
+<item>
+    <title>048 Twelfth Night Lecture 2 Of 2 King Lear Lecture 1 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 17 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>3eeb56ab-4887-4f8b-8c23-4cb342bf0f54</guid>
+</item>
+<item>
+    <title>049 King Lear Lecture 2 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/049_king_lear_lecture_2_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 18 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>1d39dc97-6f05-490f-8bb4-30aecd1ab063</guid>
+</item>
+<item>
+    <title>050 King Lear Lecture 3 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/050_king_lear_lecture_3_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 19 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>0b5af02e-36c0-4b04-abb3-a3a15bc6f98a</guid>
+</item>
+<item>
+    <title>051 King Lear Lecture 4 Of 4</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/051_king_lear_lecture_4_of_4_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Tue, 20 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>e18e47f0-a4c2-4e63-bd04-4c5b0e97b75f</guid>
+</item>
+<item>
+    <title>052 The Tempest Lecture 1 Of 2</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/052_the_tempest_lecture_1_of_2_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Wed, 21 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>16dad236-15d2-44bb-bb5d-837dddd6c20d</guid>
+</item>
+<item>
+    <title>053 The Tempest Lecture 2 Of 2 Conclusion</title>
+    <itunes:summary>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</itunes:summary>
+    <description>Harvard Prof. Paul Cantor's lectures on Shakespeare and politics.</description>
+    <enclosure url="https://raw.githubusercontent.com/kaseyb002/PodTalk-New-Landing/master/lectures/cantor_shakespeare/053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Thu, 22 Aug 2024 18:00:00 +0000</pubDate>
+    <itunes:author>Paul Cantor</itunes:author>
+    <itunes:duration>1:08:58</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <guid>135a99ac-e556-457b-bd9d-8d51f43b2b29</guid>
+</item>
+</channel>
 </rss>
